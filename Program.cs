@@ -30,7 +30,7 @@ namespace Crypto
             //4 RGR
             Console.WriteLine("\n....TASK 4....");
             RSA elKey1 = new RSA(83, 103, 38);//p q IV
-            elKey1.GenHash("рижук");//use "i" from EN
+            elKey1.GenHash("валабай");//use "i" from EN
             elKey1.Encrypt(5);//e
             elKey1.getCrypted();
 
