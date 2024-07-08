@@ -17,5 +17,8 @@ $\(2^{(H_i - 1)})^{M_i} \mod n\$, where $n=p*q$.
 
 The initialization vector $H_0$ should be chosen equal to $N + 13$. Select random keys for RSA signature
 
-## Task 5.
-## Task 6.
+## Task 5. SHA-512
+For `sha-512` calculate the value of the `conditional function`
+
+## Task 6. El Gamal on eliptic curve
+Encrypt and decrypt messages with `El Gamal` systems on an `elliptic curve`
